@@ -1,4 +1,4 @@
-# docker-wordpress_php
+# docker-wordpress-mysql
 This is a simple wordpress applicaion with php and Mysql.you can create your own blog or post using this application
 
 Run Below commands:-
